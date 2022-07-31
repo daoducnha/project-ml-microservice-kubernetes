@@ -1,5 +1,6 @@
-[![CircleCI](https://circleci.com/github/daoducnha/project-ml-microservice-kubernetes.svg?style=svg&circle-token=e0d55efb725df846b1d9c11b93463dffcbb2e4c4)](<LINK>)
+Project ml microservice kubernetes
 
+[![CircleCI](https://circleci.com/gh/daoducnha/project-ml-microservice-kubernetes/tree/main.svg?style=svg&circle-token=e0d55efb725df846b1d9c11b93463dffcbb2e4c4)](https://github.com/daoducnha/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
