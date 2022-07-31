@@ -5,7 +5,7 @@ docker login
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=app .
+docker build --platform=linux/amd64 --tag=app .
 docker tag app daoducnha29493/project-ml-microservice-kubernetes
 
 # Step 2: 
