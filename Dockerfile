@@ -8,6 +8,8 @@ WORKDIR /app
 COPY . app.py /app/
 COPY . model_data /app/
 
+RUN chmod +x /app/app.py
+
 ## Step 3:
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
