@@ -11,9 +11,9 @@ jobs:
     steps:
       - checkout
       - run: 
-        name: "create venv"
-        command: |
-          python3 -m venv ~/.devops
+          name: "create venv"
+          command: |
+            python3 -m venv ~/.devops
       - run:
           name: "Install dependencies"
           command: |
