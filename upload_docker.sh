@@ -14,4 +14,4 @@ echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
 # Push image to a docker repository
-docker image push $dockerpath:app
+docker image push $dockerpath:latest
